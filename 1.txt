@@ -1,1 +1,4 @@
-from master
+<<<<<<< HEAD
+=======
+from branch
+>>>>>>> new
